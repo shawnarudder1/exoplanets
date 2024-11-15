@@ -1,0 +1,3 @@
+[submodule "exoplanets"]
+	path = exoplanets
+	url = https://github.com/shawnarudder1/exoplanets.git
